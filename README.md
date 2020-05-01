@@ -1,2 +1,2 @@
 # demo-cv-project
-using only html and css
+normal demo a CV by using only html and css
